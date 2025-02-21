@@ -2,7 +2,7 @@ import React from 'react'
 import './MealsSummary.css'
 const MealsSummary = () => {
   return (
-    <section className='summary'>
+    <section className='p'>
    
       <h2>Delicious food ,delivered to you </h2>
       <p>choose ur favourtite meal from our board selection of available meal and enjoy a delicious lunch or food</p>
